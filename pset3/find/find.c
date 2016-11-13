@@ -11,9 +11,8 @@
  *
  * where needle is the value to find in a haystack of values
  */
-       
 #include <cs50.h>
-#include <stdio.h>./find 
+#include <stdio.h>
 #include <stdlib.h>
 
 #include "helpers.h"
