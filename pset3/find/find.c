@@ -13,7 +13,7 @@
  */
        
 #include <cs50.h>
-#include <stdio.h>
+#include <stdio.h>./find 
 #include <stdlib.h>
 
 #include "helpers.h"
